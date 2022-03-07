@@ -16,17 +16,17 @@ Skills
 ------
 
 **Tools**     
-Python
-SQL
-R
-Hive SQL
-Tableau
-Microsoft Office
-Microsoft Azure JMP
-Orange
+- Python
+- SQL
+- R
+- Hive SQL
+- Tableau
+- Microsoft Office
+- Microsoft Azure JMP
+- Orange
 
 **Methodologies**
-Regression
-Forecasting
-Machine learning 
+- Regression
+- Forecasting
+- Machine learning 
 
