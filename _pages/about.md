@@ -26,6 +26,7 @@ Microsoft Azure JMP
 Orange
 
 **Methodologies**
+
 Regression
 Forecasting
 Machine learning 
