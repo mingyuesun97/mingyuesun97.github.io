@@ -1,9 +1,4 @@
----
-layout: archive
-title: "Projects"
-permalink: /publications/
-author_profile: true
----
+
 - name: Surf Videos
   url: https://github.com/bchiang7/Surf-Videos
   code: https://github.com/bchiang7/Surf-Videos
