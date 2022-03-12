@@ -1,4 +1,9 @@
-
+---
+layout: archive
+title: "Publications"
+Description:""
+author_profile: true
+---
 ---
 **Project 1**
 
